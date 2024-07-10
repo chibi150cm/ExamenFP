@@ -1,4 +1,4 @@
-from utilidades.py import *
+from utilidades import *
 
 # Menú principal
 while True:
